@@ -1,10 +1,10 @@
-									<li><span>Token name:</span>BUBUBU.finance</li>
-									<li><span>Ticker Symbol:</span>BUBUBU</li>
-									<li><span>Type:</span>ERC-20</li>
-									<li><span>Pre-Sale:</span>None</li>
-									<li><span>Private-Sale:</span>None</li>
-									<li><span>for our team:</span>5,000 locked 12 months</li>
-									<li><span>marketing:</span>4,000</li>
-									<li><span>uniswap Supply:</span>15,000</li>
-									<li><span>Maximum Supply:</span>24,000</li>
-									<li><span>Investors:</span>None</li>
+Token name:BUBUBU.finance
+Ticker Symbol:BUBUBU
+Type:ERC-20
+Pre-Sale:None
+Private-Sale:None
+for our team:5,000 locked 12 months
+marketing:4,000
+uniswap Supply:15,000
+Maximum Supply:24,000
+Investors:None
